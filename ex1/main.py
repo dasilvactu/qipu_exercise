@@ -1,10 +1,6 @@
 from LinkedList import LinkedList
 
 if __name__ == "__main__":
-    """
-    Gabarito de execução e testes. Se o seu código passar e chegar até o final,
-    possivelmente você implementou tudo corretamente
-    """
     ll = LinkedList()
     assert(ll.head is None)
     assert(ll.tail is None)
